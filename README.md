@@ -10,7 +10,7 @@ Throughout the course of working on this project, I had the opportunity to explo
 * **Data Access Object (DAO) Pattern**: I learned to implement the DAO pattern to separate data access logic from the rest of the application, promoting code organization and maintainability.
 * **SQL Queries**: I wrote SQL queries to perform various database operations, such as insertion, updating, deletion, and data retrieval.
 * **Git and GitHub**: I used Git for version control and project management on GitHub, including repository creation, pushing changes, and collaborating with others.
-* **Docker**: I also had the opportunity to work with Docker for containerization, enabling easy deployment and management of the project in various environments.
+* **Docker**: I also had the opportunity to work with Docker for containerize the MySQL database, simplifying the deployment and management of the project's database in various environments.
 
 ## Features
 This project offers the following features:
