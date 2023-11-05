@@ -1,5 +1,5 @@
 # JDBC MySQL Project
-👋 Welcome to the JDBC MySQL Project, a Java project for educational purposes. This project showcases the use of the JDBC API to interact with a MySQL database. It focuses on managing departments and employees using the Data Access Object (DAO) pattern.
+👋 Welcome to the JDBC MySQL Project, a Java project for educational purposes. This project showcases the use of the JDBC API to interact with MySQL database. It focuses on managing departments and employees using the Data Access Object (DAO) pattern.
 
 ## Technologies and Concepts Learned
 Throughout the course of working on this project, I had the opportunity to explore and learn the following technologies and concepts:
